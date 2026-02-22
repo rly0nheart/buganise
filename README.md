@@ -1,3 +1,3 @@
-# buganise
+# Buganise
 
-This package installs [buganize](https://pypi.org/project/buganize/). See https://pypi.org/project/buganize/ for details.
+This package installs [buganize](https://pypi.org/project/buganize/). See [rly0nheart/buganize](https://github.com/rly0nheart/buganize) for details.
